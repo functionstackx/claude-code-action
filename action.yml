@@ -1,5 +1,5 @@
-name: "Claude Code Action v1.0"
-description: "Flexible GitHub automation platform with Claude. Auto-detects mode based on event type: PR reviews, @claude mentions, or custom automation."
+name: "Claude Code Action by FunctionStackX"
+description: "GitHub automation with Claude. PR reviews, @claude mentions, and custom automation."
 branding:
   icon: "at-sign"
   color: "orange"
